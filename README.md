@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NEXCODE - Agence de Développement Web</title>
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Space+Mono:wght@400;700&display=swap"              rel="stylesheet">
     <style>
         :root {
             --primary: #00ff88;
@@ -15,7 +15,7 @@
             --text: #e0e0e0;
         }
 
-            {
+        {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
