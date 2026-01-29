@@ -741,7 +741,7 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2026 NEXCODE. Tous droits réservés. Codé avec ❤️ et ☕</p>
+        <p>&copy; 2026 NEXCODE. Tous droits réservés.</p>
     </footer>
 
     <script>
@@ -764,7 +764,7 @@
         for (let i = 0; i < 50; i++) {
             const span = document.createElement('span');
             span.style.left = Math.random() * 100 + '%';
-            span.style.animationDelay = Math.random() * 15 + 's';
+            span.style.animationDelay = Math.random() * 10 + 's';
             span.style.animationDuration = (Math.random() * 10 + 10) + 's';
             bgAnimation.appendChild(span);
         }
