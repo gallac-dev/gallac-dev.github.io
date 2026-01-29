@@ -1,5 +1,3 @@
-# gallac-dev.github.io
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -17,7 +15,7 @@
             --text: #e0e0e0;
         }
 
-        * {
+            {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
