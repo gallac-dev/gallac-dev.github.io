@@ -166,7 +166,6 @@
         .hero-content {
             position: relative;
             z-index: 1;
-            animation: fadeInUp 1s ease-out;
         }
 
         .hero h1 {
@@ -178,7 +177,6 @@
             -webkit-background-clip: text;
             background-clip: text;
             -webkit-text-fill-color: transparent;
-            animation: fadeInUp 1s ease-out 0.2s both;
         }
 
         .glitch {
